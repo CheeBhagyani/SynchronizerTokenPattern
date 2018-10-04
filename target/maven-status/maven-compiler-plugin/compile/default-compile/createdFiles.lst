@@ -1,0 +1,3 @@
+services\Login.class
+services\CheckToken.class
+services\MemoryStorage.class
